@@ -1,2 +1,2 @@
-# animal.py
-project-1
+# Hello_word
+for_project
